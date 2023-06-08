@@ -1,0 +1,6 @@
+os
+ipfshttpclient
+flask
+flask_socketio
+socket
+pickle
