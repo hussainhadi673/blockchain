@@ -12,7 +12,7 @@ This repository contains the code for blockchain based secure file sharing.
 3. Install dependencies using
 ```bash
     pip install -r requirements.txt
-    ```
+```
 
 4. Finally Run
 '''bash
